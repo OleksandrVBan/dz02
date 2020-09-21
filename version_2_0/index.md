@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
 	<head>
-		<title>Пишу домашнє завдання</title>
 		<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<head>
 	<body>
@@ -33,7 +32,7 @@
 		</ul>
 		<a href="https://www.youtube.com/watch?v=mm5QkX5UYB4"> Наш парк техніки.</a>
 		<h2>Наші контакти:</h2>
-		<p>Tel:<a href="tel:+380968390535">096-839-05-35</a></p>
+		<p>096-839-05-35 <a href="tel:+380968390535"> Замовити безкоштовну консультацію!</a></p>
 		<p>Mail:<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox">nasim610890@gmail.com.</a>
 		</p>
 	</body>
