@@ -14,8 +14,7 @@
 			<li>Alex придбав нове авто!</li> 
 			<img src="img/avatar_2.png" alt="">
 			<li>Rex переміг у змаганнях</li>
-			<img src="img/logo_03.png" alt="">
-			<li>Rok нагадує всім про майбутню подію!</li> 
+			<img src="img/avatar_3.png" alt=""><li>Rok нагадує всім про майбутню подію!</li> 
 		</ul>
 		<h2>Наші контакти:</h2>
 		<p>tel:<a href="tel:+380968390535">+380968390535 цілодобова підтримка</a></p>
