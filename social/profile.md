@@ -8,7 +8,7 @@
 		<h1>Tailed friends</h1>
 		<p>Пошук по сайту...</p>
 				<img src="img/profile.jpg" alt="">
-				<p>Рок</p>
+				<h2><p>Рок</p></h2>
 		<h2>Основна інформація:</h2>
 		<ul>
 			<li>має багато друзів</li> 
