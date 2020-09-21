@@ -6,7 +6,7 @@
 	<body>
 		<p>Дізнавайтесь! Діліться! Спілкуйтесь! Світ тварин!</p>
 		<h1>Tailed friends</h1>
-		<img src="img/logo.jpg" alt="">
+		<img src="img/logo_03.png" alt="">
 		<p>Пошук по сайту...</p>
 		<h2> Наша спільнота: </h2>
 		<ul>
