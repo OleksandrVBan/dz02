@@ -12,8 +12,8 @@
 			та працюють в усіх сферах сільського господарства (рослинництво, тваринництво, садівництво).
 		Щорічно корпорація розширює виробничі потужності, дбаючи про забезпечення високої якості продукції.</p>
 		<h2>Наші контакти:</h2>
-		<p><a href="https://www.youtube.com/watch?v=mm5QkX5UYB4"> Наша техніка.</a></p>
+		<p>youtube<a href="https://www.youtube.com/watch?v=mm5QkX5UYB4"> Наша техніка.</a></p>
 		<p>tel:<a href="tel:+380968390535">+380968390535</a></p>
-		<p>Mail:<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox">nasim610890@gmail.com.</a></p>
+		<p>mail:<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox">nasim610890@gmail.com.</a></p>
 	</body>
 </html>
