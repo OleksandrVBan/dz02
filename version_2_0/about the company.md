@@ -15,5 +15,6 @@
 		<p>tel:<a href="tel:+380968390535">+380968390535</a></p>
 		<p>youtube:<a href="https://www.youtube.com/watch?v=mm5QkX5UYB4"> Наша техніка.</a></p>
 		<p>mail:<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox">nasim610890@gmail.com.</a></p>
+		<p>© Агро-форум, 2015</p>
 	</body>
 </html>
